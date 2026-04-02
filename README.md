@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔄 CryptoSwap
 
 A clean, modern crypto swap interface powered by [SimpleSwap](https://simpleswap.io) API — built with React + Node.js/Express.
@@ -41,8 +42,8 @@ A clean, modern crypto swap interface powered by [SimpleSwap](https://simpleswap
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/s-swap.git
-cd s-swap
+git clone https://github.com/yasar-q/crypto-swap.git
+cd crypto-swap
 ```
 
 ### 2. Backend setup
@@ -168,3 +169,7 @@ s-swap/
 ## 📄 License
 
 MIT © [Your Name](https://github.com/YOUR_USERNAME)
+=======
+# crypto-swap
+A clean, modern crypto swap interface powered by SimpleSwap API - built with React + Node.js / Express.
+>>>>>>> 4204f7cbf789f9a84907267844305970da211edf
