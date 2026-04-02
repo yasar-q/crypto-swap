@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🔄 CryptoSwap
 
 A clean, modern crypto swap interface powered by [SimpleSwap](https://simpleswap.io) API — built with React + Node.js/Express.
@@ -162,14 +161,21 @@ s-swap/
 
 ## 📸 Screenshots
 
-> Coming soon
+### Swap Interface
 
----
+![Swap Interface](screenshots/swap-interface.jpeg)
 
-## 📄 License
+### Token Selection
 
-MIT © [Your Name](https://github.com/YOUR_USERNAME)
-=======
-# crypto-swap
-A clean, modern crypto swap interface powered by SimpleSwap API - built with React + Node.js / Express.
->>>>>>> 4204f7cbf789f9a84907267844305970da211edf
+![Token Selection](screenshots/token-select.jpeg)
+
+### Recent Transactions
+
+![Recent Transactions](screenshots/recent-transactions.jpeg)
+
+### Mobile View
+
+<p float="left">
+  <img src="screenshots/swap-interface-mobile.jpeg" width="45%" />
+  <img src="screenshots/recent-transactions-mobile.jpeg" width="45%" />
+</p>
